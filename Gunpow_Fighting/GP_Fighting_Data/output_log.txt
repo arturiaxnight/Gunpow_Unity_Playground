@@ -1,0 +1,38 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 730M (ID=0xfe1)
+    Vendor:   NVIDIA
+    VRAM:     2018 MB
+    Driver:   22.21.13.8165
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\UnityPJ\Gunpow_Unity_Playground\Gunpow_Fighting\GP_Fighting_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\UnityPJ\Gunpow_Unity_Playground\Gunpow_Fighting\GP_Fighting_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\UnityPJ\Gunpow_Unity_Playground\Gunpow_Fighting\GP_Fighting_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\UnityPJ\Gunpow_Unity_Playground\Gunpow_Fighting\GP_Fighting_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\UnityPJ\Gunpow_Unity_Playground\Gunpow_Fighting\GP_Fighting_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\UnityPJ\Gunpow_Unity_Playground\Gunpow_Fighting\GP_Fighting_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\UnityPJ\Gunpow_Unity_Playground\Gunpow_Fighting\GP_Fighting_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\UnityPJ\Gunpow_Unity_Playground\Gunpow_Fighting\GP_Fighting_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\UnityPJ\Gunpow_Unity_Playground\Gunpow_Fighting\GP_Fighting_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\UnityPJ\Gunpow_Unity_Playground\Gunpow_Fighting\GP_Fighting_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.134 seconds
+Platform assembly: D:\UnityPJ\Gunpow_Unity_Playground\Gunpow_Fighting\GP_Fighting_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\UnityPJ\Gunpow_Unity_Playground\Gunpow_Fighting\GP_Fighting_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 3286x1090 at -1920,-322
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.331223 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.241185 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 222.
+Total: 0.135559 ms (FindLiveObjects: 0.019243 ms CreateObjectMapping: 0.010263 ms MarkObjects: 0.077829 ms  DeleteObjects: 0.027368 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 2a34 -> priority: 1 
+  Thread -> id: 21f4 -> priority: 1 
+  Thread -> id: 1ae0 -> priority: 1 
+  Thread -> id: 30f8 -> priority: 1 
